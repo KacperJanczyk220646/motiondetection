@@ -6,7 +6,6 @@ Welcome to the Motion Detection System repository! This Python-based application
 
 - [Introduction](#introduction)
 - [Dependencies](#dependencies)
-- 
 ## Introduction
 
 The Motion Detection System is designed to analyze video frames, identify changes, and determine the presence of motion within the camera's field of view. Whether you want to monitor a space or experiment with computer vision, this tool provides a simple yet effective solution.
